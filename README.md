@@ -2,7 +2,7 @@
 
 This is a batch application, it will listen from a queue to process/convert audio files from sfx, 3gp, flat, etc (extensions) to mp3 and next, save them into a S3 bucket. After the audio has been processed, sends a confirmation email.
 
-## Version 1
+## Version 2
 
 * Built on Java 8 using Spring framework.
 * Uses MongoDB, a no-relational database.
